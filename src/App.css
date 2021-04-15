@@ -1,14 +1,10 @@
-h3,
-h4 {
+h3 {
   padding-left: 0;
-  margin:10px;
-  margin-left:0;  
+  margin: 20px 0 5px 0;
 }
 
-
 figure {
-  margin:10px;
-  margin-left:0;
+  margin: 20px 0 0 0;
   padding: 5px;
   background-color: #61dafb;
   display: inline-block;
@@ -16,5 +12,5 @@ figure {
 
 div {
   display: inline-block;
-  margin:10px;
+  margin: 10px 10px 0 10px;
 }
